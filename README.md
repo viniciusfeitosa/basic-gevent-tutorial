@@ -10,9 +10,8 @@ Gevent es una biblioteca de concurrencia basada en **libev**. Proporciona una AP
 
 ## Entorno virtual
 
->- **Windows**: wvenv\Scripts\activate
->- **Mac**: source mvenv/bin/activate
->- **Linux**: source lvenv/bin/activate
+>- **Windows**: myvenv\Scripts\activate
+>- **Linux/Mac**: source myenv/bin/activate
 
 
 ## Que vamos a estudiar juntos?
@@ -23,13 +22,13 @@ Gevent es una biblioteca de concurrencia basada en **libev**. Proporciona una AP
 
 3. Qué es Gevent
 
-4. [Gevent API](000_ap1/README.md)
+4. [Gevent API](000_api/README.md)
 
-5. [Sincronismo y Asincronismo](001_sync_async/README.md)
+5. [Sincronismo y Asincronismo](https://github.com/viniciusfeitosa/basic-gevent-tutorial/tree/master/001_sync_async)
 
 6. [Determinismo](002_determinism/README.md)
 
-7. [Greenlet](003_greenlet/README.md)
+7. [Greenlet](https://github.com/viniciusfeitosa/basic-gevent-tutorial/tree/master/003_greenlet)
 
 8. [Estados de un Greenlet](004_greenlet_state/README.md)
 
@@ -43,7 +42,7 @@ Gevent es una biblioteca de concurrencia basada en **libev**. Proporciona una AP
 
 13. [Colas](009_queues/README.md)
 
-14. [Applicación Real](010_flask/README.md)
+14. [Applicación Real](https://github.com/viniciusfeitosa/basic-gevent-tutorial/tree/master/010_flask)
 
 
 License
